@@ -28,27 +28,32 @@ This ensures continuous gradients even when the initial bounding box has no over
 ## 📈 Performance Visualization
 *(Note: Please ensure image files are located in the respective folders below)*
 
+
 ### 1. Training Convergence
-![Training Log](03_Training_Log/Academic_Result_Plot.png)  
+<img width="3570" height="1470" alt="Academic_Result_Plot" src="https://github.com/user-attachments/assets/677f6196-87fb-4aeb-9cc7-58482e3cec78" />
 *Figure 1: mAP and Loss evolution demonstrating high stability.*
 
 ### 2. Scientific Reliability
-![Confusion Matrix](04_Academic_Metrics/confusion_matrix_normalized.png)  
+<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/6bf5f9dd-8da6-471d-9df9-5465848b8cc7" />
 *Figure 2: Perfect diagonal scores (1.00) indicating zero-error classification.*
 
 ### 3. Large-Scale Inference (1,001 Samples)
-![Inference List](05_Detection_Results/inference_list_screenshot.png)  
+![image_10006105038133512240571![image_102820603644519315565112114322903280482](https://github.com/user-attachments/assets/919cc03b-b2d9-4a00-9178-5fe421c56e41)
+![image_13488709593983917947377688377175224857](https://github.com/user-attachments/assets/2bcf2e6e-f6c5-435e-a66a-0656ace8f7be)
+![image_111831504995325074319548509113012552193](https://github.com/user-attachments/assets/a0ce61ee-3d8c-45c7-a27e-dce4ed9f852f)
+9538882377792147](https://github.com/user-attachments/assets/4dbb7ef3-719f-44b3-a2aa-65bc77a9c46d)
 *Figure 3: Batch processing results for massive astronomical survey data.*
 
-![Detection Sample](05_Detection_Results/best_sample.png)  
+![val_batch0_pred](https://github.com/user-attachments/assets/241bb3a4-8eaf-4704-88e5-0c084cf6ed31)
 *Figure 4: Einstein Ring localization with 0.97 confidence.*
 
 ---
 
 ## 🛠️ Environment & Weights
 - **Python:** 3.12.12 | **Core:** `ultralytics`, `torch`
-- **Model Weights (`best.pt`):** > **⚠️ NOTICE:** Due to GitHub's file size limit, the finalized 240MB `best.pt` weights are **not** included in the repository. They are stored locally for the live demonstration. For remote access, please contact the developer for a private link.
+- **Model Weights (`best.pt`):** > **⚠️ NOTICE:** Due to GitHub's file size limit, the finalized 128MB `best.pt` weights are **not** included in the repository. They are stored locally for the live demonstration. For remote access, please contact the developer for a private link.
 
 ## 📜 Technical Report
 For a deep dive into the methodology, refer to:  
 `Project Technical Evaluation Report.docx` (or .pdf)
+
