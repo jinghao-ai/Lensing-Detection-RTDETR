@@ -57,9 +57,11 @@ This ensures continuous gradients even when the initial bounding box has no over
 For a deep dive into the methodology, refer to:  
 `Project Technical Evaluation Report.docx` (or .pdf)
 
-## ✍️ Technical Articles & Community
-- **Medium**: [Coming Soon] *Exploring RT-DETR: Fine-tuning for Rare Astronomical Phenomena.*
-- **Zhihu**: [In Progress] *从 0 到 1：利用深度学习在深空“搜救”引力透镜。*
+---
+## ✍️ Community & Future Outreach
+To contribute to the intersection of Deep Learning and Astrophysics, I am currently preparing a series of technical deep-dives:
+* **Medium**: *Optimizing RT-DETR for Sparse Astronomical Signals: From GIoU to Global Attention.* (Drafting)
+* **Zhihu**: *引力透镜自动检测：如何利用 Transformer 架构捕捉深空中的“爱因斯坦环”。* (In Progress)
 
-
+I am open to academic collaborations and discussions regarding real-time object detection in scientific research.
 
