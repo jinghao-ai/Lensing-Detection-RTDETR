@@ -57,3 +57,9 @@ This ensures continuous gradients even when the initial bounding box has no over
 For a deep dive into the methodology, refer to:  
 `Project Technical Evaluation Report.docx` (or .pdf)
 
+## ✍️ Technical Articles & Community
+- **Medium**: [Coming Soon] *Exploring RT-DETR: Fine-tuning for Rare Astronomical Phenomena.*
+- **Zhihu**: [In Progress] *从 0 到 1：利用深度学习在深空“搜救”引力透镜。*
+
+
+
