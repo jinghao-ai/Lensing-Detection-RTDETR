@@ -61,7 +61,8 @@ For a deep dive into the methodology, refer to:
 ## ✍️ Community & Future Outreach
 To contribute to the intersection of Deep Learning and Astrophysics, I am currently preparing a series of technical deep-dives:
 * **Medium**: *Optimizing RT-DETR for Sparse Astronomical Signals: From GIoU to Global Attention.* (Drafting)
-* **Zhihu**: *引力透镜自动检测：如何利用 Transformer 架构捕捉深空中的“爱因斯坦环”。* (In Progress)
+* **Zhihu**: *mAP 0.994 的背后 ：深度拆解 RT-DETR 在强引力透镜检测中的性能极限。* (In Progress)
 
 I am open to academic collaborations and discussions regarding real-time object detection in scientific research.
+
 
