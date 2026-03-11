@@ -60,9 +60,10 @@ For a deep dive into the methodology, refer to:
 ---
 ## ✍️ Community & Future Outreach
 To contribute to the intersection of Deep Learning and Astrophysics, I am currently preparing a series of technical deep-dives:
-* **Medium**: *Optimizing RT-DETR for Sparse Astronomical Signals: From GIoU to Global Attention.* (Drafting)
-* **Zhihu**: *mAP 0.994 的背后 ：深度拆解 RT-DETR 在强引力透镜检测中的性能极限。* (In Progress)
+* **DEV**: *Hunting Einstein Rings: Achieving 0.994 mAP in Deep-Space Detection with RT-DETR* (**https://dev.to/jinghaoai/hunting-einstein-rings-achieving-0994-map-in-deep-space-detection-with-rt-detr-4j3j**)
+* **Zhihu**: *mAP 0.994 的背后 ：深度拆解 RT-DETR 在强引力透镜检测中的性能极限。* (In Progress) (**https://zhuanlan.zhihu.com/p/2014783814971466388**)
 
 I am open to academic collaborations and discussions regarding real-time object detection in scientific research.
+
 
 
